@@ -24,7 +24,7 @@ I'm an experienced non-func tester with a focus on low latency, throughtput, sca
 
 #### README-driven Development
 After analysing the main requirements and use case for a project, and I can conclude that it's likely a quite isolated component that needs to be built, or a smaller app/feature, then I think it can be useful to let README-driven development principles guide. You can read a great article about it here:
-https://tom.preston-werner.com/2010/08/23/readme-driven-development.html 
+[https://tom.preston-werner.com/2010/08/23/readme-driven-development.html]
 
 This is an example project where I used 'RDD' to quickly put together a Slack App based on Node.JS to enable Google Bard integration with our company's resarch process.
 
