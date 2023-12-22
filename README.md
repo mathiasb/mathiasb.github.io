@@ -8,8 +8,8 @@
 ## Projects
 * Libby Slack App
 * Industrial Categorizer
-* XYZ
-* ABC
+* Google Forms Year-on-Year analytics Python package
+* ESG Data provider Data-graph
 * DEF
 
 ## Technologies and frameworks
