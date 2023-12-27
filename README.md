@@ -3,7 +3,11 @@
 ## Education
 * (Executive MBA - Innovation Management, Stockholm School of Economics)[https://www.hhs.se/en/education/mba/]
 * (MSc Computing Science, Umeå University)[https://www.umu.se/en/education/master/masters-programme-in-computing-science/]
+
 ## Courses and certs
+* Coursera
+* edX
+* Pluralsight
 
 ## Projects
 * Libby Slack App
@@ -11,6 +15,9 @@
 * Google Forms Year-on-Year analytics Python package
 * ESG Data provider Data-graph
 * DEF
+
+### Trello screen?
+My trello for projects
 
 ## Technologies and frameworks
 * Node.JS
