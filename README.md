@@ -1,8 +1,8 @@
 # Introduction
 
 ## Education
-* (Executive MBA - Innovation Management, Stockholm School of Economics)[https://www.hhs.se/en/education/mba/]
-* (MSc Computing Science, Umeå University)[https://www.umu.se/en/education/master/masters-programme-in-computing-science/]
+* [Executive MBA - Innovation Management, Stockholm School of Economics](https://www.hhs.se/en/education/mba/)
+* [MSc Computing Science, Umeå University](https://www.umu.se/en/education/master/masters-programme-in-computing-science/)
 
 ## Courses and certs
 * Coursera
@@ -12,6 +12,7 @@
 ## Projects
 * Libby Slack App
 * Industrial Categorizer
+* [Plotly GIS Visualization of ESG Data](https://medium.com/towards-data-science/how-to-create-a-simple-gis-map-with-plotly-and-streamlit-7732d67b84e2)
 * Google Forms Year-on-Year analytics Python package
 * ESG Data provider Data-graph
 * DEF
