@@ -2,5 +2,17 @@ title: Mathias Bergqvist
 logo: https://avatars.githubusercontent.com/u/209182?s=96&v=4
 description: MSc CS with numerous ML/AI certs
 show_downloads: false
-theme: jekyll-theme-minimal
-
+# https://pages.github.com/themes/
+#theme: architect
+#theme: cayman
+#theme: dinky
+#theme: hacker
+#theme: leap-day
+#theme: merlot
+#theme: midnight
+theme: minima
+#theme: minimal
+#theme: modernist
+#theme: slate
+#theme: tactile
+#theme: time-machine
