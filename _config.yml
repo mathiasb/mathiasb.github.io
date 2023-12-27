@@ -10,7 +10,7 @@ show_downloads: false
 #theme: leap-day
 #theme: merlot
 #theme: midnight
-theme: minima
+theme: jekyll-theme-minima
 #theme: minimal
 #theme: modernist
 #theme: slate
