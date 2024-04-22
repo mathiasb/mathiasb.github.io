@@ -1,23 +1,27 @@
 # Introduktion
 <p>Jag heter Mathias och är en människo- och lösningsfokuserad person som brinner för att använda teknologi och agila arbetssätt för att skapa värdefulla lösningar till komplexa problem.</p>
 <p>Jag har över två decenniers erfarenhet inom IT och bank/finans och en akademiska bakgrund med en MSc i datavetenskap och en MBA med inriktning på innovationsledning. Jag har lång erfarenhet av att omvandla kundbehov och användarproblem till agerbara strategier, konkreta planer och effektiva förvaltningsbara lösningar. Min förmåga att bygga team i både linjen och projekt har hjälpt mig leverera i starkt reglerade miljöer, i områden som agil produktägare, portföljhantering, affärmodellering, e-handel, Open Banking, ESG data, CRM.</p>
-<p>Det som utmärker mig är en kombination av nyfikenhet, empati och analytisk förmåga.</p>
+<p>Det som utmärker mig är en kombination av nyfikenhet, empati och analytisk förmåga. Jag äver övertygad om livslångt lärande som princip och tar ofta tillfället att testa nya sätt att lösa gamla knepiga problem.</p>
 <table>
   <tr>
     <th>Roller</th><th>Verktyg, tekniker</th>
   </tr>
   <tr>
     <td>
-      * Agil produktägare
-      * Portföljhantering, projektledning
-      * Teknisk/Affärs-analys
-      * Innovationsledning
+      <ul>
+        <li>Agil produktägare</li>
+        <li>Portföljhantering, projektledning</li>
+        <li>Teknisk/Affärs-analys</li>
+        <li>Innovationsledning</li>
+      </ul>
     </td>
     <td>
-      * SAFe Lean/agile, Service design
-      * Cloud development
-      * Python, Java, Node.JS
-      * AI/ML deployment
+      <ul>
+        <li>SAFe Lean/agile, Service design</li>
+        <li>Cloud development</li>
+        <li>Python, Java, Node.JS</li>
+        <li>AI/ML deployment</li>
+      </ul>
     </td>
   </tr>
 </table>
